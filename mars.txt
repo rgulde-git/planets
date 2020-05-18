@@ -3,8 +3,4 @@ typical for text files to leave an empty line at the end
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack fo humidity
 In general mars would be a good base. This is an edit on a different line. 
-This is Raichel's note only. 
-This is Emily's note! 
-New commit on dev branch
-Second commit on dev branch
-A good ending for all. 
+Wolfman is overruled and the base continues. Sux.
