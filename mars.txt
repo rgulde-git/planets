@@ -7,3 +7,4 @@ This is Raichel's note only.
 This is Emily's note! 
 New commit on dev branch
 Second commit on dev branch
+A good ending for all. 
